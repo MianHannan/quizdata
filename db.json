@@ -2,22 +2,102 @@
     "questions": [
         {
             "id": 1,
-            "question": "question is this.",
+            "question": "The fundamental language of World Wide Web (WWW) is",
             "answers": [
-                "correct",
-                "Wrong 1",
-                "Wrong 2",
-                "Wrong 3"
+                "HTML",
+                "PHP",
+                "ASP.NET",
+                "CSS"
             ]
         },
         {
-            "id": 1,
-            "question": "question",
+            "id": 2,
+            "question": "Which computer language is normally used to design a web page?",
             "answers": [
-                "correct",
-                "Wrong 1",
-                "Wrong 2",
-                "Wrong 3"
+                "CSS",
+                "PHP",
+                "ASP.NET",
+                "HTML"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Which operating system is used by most of the supercomputers in the world?",
+            "answers": [
+                "Linux",
+                "Windows",
+                "Macintosh",
+                "None of these"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "URL is an abbreviation for?",
+            "answers": [
+                "Universal Resource Locator",
+                "Uniform Resource Locator",
+                "Universal Resource Location",
+                "Uniform Resource Location"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "A computer network for sharing information and working within an organization is known as",
+            "answers": [
+                "Intranet",
+                "Website",
+                "Internet",
+                "None of these"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Isotopes are atoms of the same element with different numbers of",
+            "answers": [
+                "Neutrons",
+                "Positron",
+                "Protons",
+                "Electrons"
+            ]
+        },
+        {
+            "id": 7,
+            "question": " The most abundant component in Earth’s atmosphere (or Air) is",
+            "answers": [
+                "Nitrogen",
+                "Hydrogen",
+                "Oxygen",
+                "Carbondioxide"
+            ]
+        },
+        {
+            "id": 8,
+            "question": " Ships use _____ to find the depth of the water beneath them.",
+            "answers": [
+                "Echo",
+                "Pitch",
+                "Frequency",
+                "None of these"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "The Earth’s internal heat mainly comes from",
+            "answers": [
+                "Radioactive decay",
+                "Liquid hydrogen",
+                "Molecular kinetic energy",
+                "Chemical reactions"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "What is needed as a source of energy for vital activities of the body?",
+            "answers": [
+                "Carbohydrates",
+                "Iron",
+                "Calcium",
+                "Water"
             ]
         }
     ]
