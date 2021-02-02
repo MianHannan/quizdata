@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "question is this.",
+        "answers": [
+            "correct",
+            "Wrong 1",
+            "Wrong 2",
+            "Wrong 3"
+        ]
+    },
+    {
+        "id": 1,
+        "question": "question",
+        "answers": [
+            "correct",
+            "Wrong 1",
+            "Wrong 2",
+            "Wrong 3"
+        ]
+    }
+]
