@@ -1,9 +1,9 @@
 {
-    "questions": [
+    "quiz": [
         {
             "id": 1,
             "question": "The fundamental language of World Wide Web (WWW) is",
-            "answers": [
+            "choices": [
                 "HTML",
                 "PHP",
                 "ASP.NET",
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "question": "Which computer language is normally used to design a web page?",
-            "answers": [
+            "choices": [
                 "CSS",
                 "PHP",
                 "ASP.NET",
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "question": "Which operating system is used by most of the supercomputers in the world?",
-            "answers": [
+            "choices": [
                 "Linux",
                 "Windows",
                 "Macintosh",
@@ -33,7 +33,7 @@
         {
             "id": 4,
             "question": "URL is an abbreviation for?",
-            "answers": [
+            "choices": [
                 "Universal Resource Locator",
                 "Uniform Resource Locator",
                 "Universal Resource Location",
@@ -43,7 +43,7 @@
         {
             "id": 5,
             "question": "A computer network for sharing information and working within an organization is known as",
-            "answers": [
+            "choices": [
                 "Intranet",
                 "Website",
                 "Internet",
@@ -53,7 +53,7 @@
         {
             "id": 6,
             "question": "Isotopes are atoms of the same element with different numbers of",
-            "answers": [
+            "choices": [
                 "Neutrons",
                 "Positron",
                 "Protons",
@@ -63,7 +63,7 @@
         {
             "id": 7,
             "question": " The most abundant component in Earth’s atmosphere (or Air) is",
-            "answers": [
+            "choices": [
                 "Nitrogen",
                 "Hydrogen",
                 "Oxygen",
@@ -73,7 +73,7 @@
         {
             "id": 8,
             "question": " Ships use _____ to find the depth of the water beneath them.",
-            "answers": [
+            "choices": [
                 "Echo",
                 "Pitch",
                 "Frequency",
@@ -83,7 +83,7 @@
         {
             "id": 9,
             "question": "The Earth’s internal heat mainly comes from",
-            "answers": [
+            "choices": [
                 "Radioactive decay",
                 "Liquid hydrogen",
                 "Molecular kinetic energy",
@@ -93,7 +93,7 @@
         {
             "id": 10,
             "question": "What is needed as a source of energy for vital activities of the body?",
-            "answers": [
+            "choices": [
                 "Carbohydrates",
                 "Iron",
                 "Calcium",
